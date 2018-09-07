@@ -61,4 +61,4 @@ Entre los contenidos del curso se encuentran los siguientes:
 
 ## License
 
-Copyright &copy; 2018, [Sebastian Arpon, Roberto Muñoz y Marco Ramirez](https://github.com/sarpon.) Released under the [GPLv3](https://github.com/MetricLearning/intensivo_python/blob/master/LICENSE) license.
+Copyright &copy; 2018, [Sebastian Arpon, Roberto Muñoz y Marco Ramirez](https://github.com/sarpon) Released under the [GPLv3](https://github.com/MetricLearning/intensivo_python/blob/master/LICENSE) license.
